@@ -52,4 +52,5 @@ The analysis is performed using **Excel** for data preparation and **Power BI** 
 
 ## 👤 Author
 **Shubham Mandavkar**  
-Aspiring Data Analyst | Excel | Power BI | SQL | Python
+Aspiring Data Analyst | Excel | Power BI | SQL | Python | R Programming
+📍 Mumbai, India
